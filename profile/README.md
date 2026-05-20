@@ -17,9 +17,9 @@
 <h3 align='center'>--Computación en la nube--</h3>
 <table align='center'>
   <tr>
-    <td><img src='https://raw.githubusercontent.com/maycloud-mx/ilustraciones/d2a7c5a306071ec9c17ee22a14b182e90072bda9/logotipos/aws-logo.svg' height='100'></td>
-    <td><img src='https://raw.githubusercontent.com/maycloud-mx/ilustraciones/d2a7c5a306071ec9c17ee22a14b182e90072bda9/logotipos/gcp-logo.svg' height='100'></td>
-    <td><img src='https://raw.githubusercontent.com/maycloud-mx/ilustraciones/d2a7c5a306071ec9c17ee22a14b182e90072bda9/logotipos/azure-logo.svg' height='100'></td>
+    <td><img src='https://raw.githubusercontent.com/maycloud-mx/ilustraciones/d2a7c5a306071ec9c17ee22a14b182e90072bda9/logotipos/aws-logo.svg' height='80'></td>
+    <td><img src='https://raw.githubusercontent.com/maycloud-mx/ilustraciones/d2a7c5a306071ec9c17ee22a14b182e90072bda9/logotipos/azure-logo.svg' height='80'></td>
+    <td><img src='https://raw.githubusercontent.com/maycloud-mx/ilustraciones/d2a7c5a306071ec9c17ee22a14b182e90072bda9/logotipos/gcp-logo.svg' height='80'></td>
   </tr>
 </table> <br />
 
